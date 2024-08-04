@@ -6,6 +6,7 @@
 //     SFDX: Execute Anonymous Apex with Editor Contents
 
 string tempvar = 'Pubba';
-string tempvar2 = 'Salesforce';
+string tempvar2 = 'Salesforce Developer';
 System.debug('Hello World!');
 System.debug('My name is ' + tempvar);
+System.debug('I am a ' + tempvar2);
